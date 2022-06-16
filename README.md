@@ -18,3 +18,10 @@ While deep Convolutional Neural Networks (CNNs) have  shown  extraordinary  capa
 ![avatar](figs/NC12.jpg)
 
 
+___  
+
+## Requirements
+- python==3.8
+- numpy==1.22.3
+- opencv_python_headless==4.5.5.64
+- torch==1.8.1
