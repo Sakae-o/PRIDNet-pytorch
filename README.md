@@ -1,5 +1,5 @@
 # Pyramid Real Image Denoising Network
-This is the code for the paper "Pyramid Real Image Denoising Network". ( VCIP 2019 oral )
+A pytorch implementation for the paper "Pyramid Real Image Denoising Network". ( VCIP 2019 oral )
 
 Paper Link : [Pyramid Real Image Denoising Network](https://arxiv.org/abs/1908.00273?context=cs.CV)
 
