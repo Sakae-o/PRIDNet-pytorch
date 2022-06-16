@@ -18,20 +18,4 @@ While deep Convolutional Neural Networks (CNNs) have  shown  extraordinary  capa
 ![avatar](figs/DND-2.jpg)
 ![avatar](figs/NC12.jpg)
 
-## Training
-train_SIDD_Pyramid.py is used for training.  
 
-variable "dir_name": to store your training dataset.
-
-variable "checkpoint_dir": to save your trained model.
-
-variable "result_dir": to save the images produced in the training process.
-
-## Testing
-test_SIDD_Pyramid.py is used for testing.
-
-variable "val_dir": to store your testing dataset.
-
-variable "checkpoint_dir": to store your pre-trained model.
-
-variable "result_dir": the denoised result after testing.
